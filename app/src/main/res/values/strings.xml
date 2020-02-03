@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DataGT</string>
+    <string name="name">Nombre:</string>
+    <string name="guate">GUATEMALA</string>
+    <string name="writename">Escriba su nombre</string>
+    <string name="guateinfo">Guatemala, un país de América Central al sur de México, tiene volcanes, bosques tropicales y antiguos sitios mayas. La capital, Ciudad de Guatemala, cuenta con el imponente Palacio Nacional de la Cultura y el Museo Nacional de Arqueología y Etnología. Antigua Guatemala, al oeste de la capital, contiene edificios coloniales españoles preservados. El lago de Atitlán, formado en un enorme cráter volcánico, está rodeado de campos de café y aldeas.</string>
 </resources>
